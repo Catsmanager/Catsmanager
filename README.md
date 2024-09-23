@@ -9,9 +9,11 @@
 <details>
 <summary>About Me</summary>
 <br>해달 2023~</br>
-GDG 4기
+GDG 4기 
+<br>2024 공공데이터 활용 도로 관리 효율화 해커톤 수상/FE담당 </br>
+2024 GLOW HACKATON README상 수상/FE담당
+</details>
   
-</summary>
 
 
 </details>
