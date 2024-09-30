@@ -4,10 +4,8 @@
 <!-- 중앙 내용 -->
 <div align="center">
   
-  <!-- 원하는 글씨체와 크기 설정 -->
-  <font face="Courier New" size="10">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FE개발자를+꿈+꾸+는+😴;(-,+–+)+…zzz+ZZZ+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gothic+A1&size=25&pause=1000&color=000000&background=49494900&center=true&vCenter=true&width=435&lines=FE+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94..%F0%9F%98%B4;(-%2C+%E2%80%93+)%E2%80%A6zzzZZZ)](https://git.io/typing-svg)
 
   </font>
 </div>
