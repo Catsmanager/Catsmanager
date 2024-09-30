@@ -3,8 +3,14 @@
 
 <!-- 중앙 내용 -->
 <div align="center">
+  
+  <!-- 원하는 글씨체와 크기 설정 -->
+  <font face="Courier New" size="10">
 
-<h2>FE 개발자를 꿈꾸는 ....😴</h2>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FE개발자를+꿈+꾸+는+😴;(-,+–+)+…zzz+ZZZ+...)](https://git.io/typing-svg)
+
+  </font>
+</div>
 
 <details>
 <summary>About Me</summary>
