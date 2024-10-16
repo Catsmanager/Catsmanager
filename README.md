@@ -14,8 +14,9 @@
 <summary>About Me</summary>
 <br>해달 2023~</br>
 GDG 4기 
-<br>2024 공공데이터 활용 도로 관리 효율화 해커톤 수상/FE담당 </br>
+<br>2024 공공데이터 활용 도로 관리 효율화 해커톤 4위 수상/FE담당 </br>
 2024 GLOW HACKATON README상 수상/FE담당
+2024 대구를 빛내는 해커톤 본선 진출
 </details>
   
 
